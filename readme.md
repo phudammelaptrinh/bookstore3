@@ -1,4 +1,4 @@
-# khái quát về mvc
+# Khái quát về mvc
 
 mô hình về mvc ,là viết tắt của model view và controller, là mô hình gồm 3 lớp : model, view, controller,...
 
@@ -30,4 +30,14 @@ controller: lớp này đóng vai trò quản lý và điều phối hoạt đ�
 
 #### Bắt đầu với tầng model :
 
-![file-hinh-entitty](https://topdev.vn/blog/wp-content/uploads/2020/08/mvc-php-5.png)
+![file-hinh-model](https://topdev.vn/blog/wp-content/uploads/2020/08/mvc-php-5.png)
+
+### c. Tầng view:
+
+-Lớp này dùng để định dạng hiển thị dữ liệu lên cho người dùng.
+
+![file-hinh-view](https://topdev.vn/blog/wp-content/uploads/2020/08/mvc-php-6.png)
+
+### Điều rút kết :
+
+![hinh-mvc](https://topdev.vn/blog/wp-content/uploads/2020/08/mvc-php-8.png)
