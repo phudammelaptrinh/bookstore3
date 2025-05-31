@@ -16,7 +16,7 @@ controller: lớp này đóng vai trò quản lý và điều phối hoạt đ�
 
 ### a. Tầng controller:
 
-- Đây là tầng điều phối của ứng dụng, nhận request từ client, phân tích request, gọi tầng Model để lấy dữ liệu và tầng View để tổ chức hiển thị dữ liệu.
+-Đây là tầng điều phối của ứng dụng, nhận request từ client, phân tích request, gọi tầng Model để lấy dữ liệu và tầng View để tổ chức hiển thị dữ liệu.
 
 ![file-hinh-controller](https://topdev.vn/blog/wp-content/uploads/2020/08/mvc-php-3.png)
 
